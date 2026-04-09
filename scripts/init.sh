@@ -1,1 +1,2 @@
+cd ../prod
 terraform init
